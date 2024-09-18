@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 good timeline
-=======
-bad timeline!
->>>>>>> e5dfd42653cd7e06f942558bb61a6b0238c21c53
